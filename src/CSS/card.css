@@ -1,0 +1,27 @@
+.card {
+    align-items: center;
+    background-color: var(--background-color-card);
+    border: .1rem solid var(--border-color-card);
+    border-radius: .5rem;
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap-m);
+    line-height: 1.1;
+    padding: var(--padding-m) var(--padding-xs);
+    text-align: center;
+}
+.card img {
+    width: 100%;
+}
+.uncommon {
+    border-color: var(--color-uncommon);
+}
+.rare {
+    border-color: var(--color-rare);
+}
+.epic {
+    border-color: var(--color-epic);
+}
+.legendary {
+    border-color: var(--color-legendary);
+}
