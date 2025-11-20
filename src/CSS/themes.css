@@ -1,10 +1,10 @@
 :root {
-    --background-color-body: #000;
-    --background-color-footer: #111;
-    --background-color-header: #111;
-    --background-color-main: #000;
-    --background-color-card: #111;
-    --border-color-card: #AAA;
-    --color-text: #CCC;
-    --color-title: #FFF;
+  --background-color-body: #000;
+  --background-color-footer: #111;
+  --background-color-header: #111;
+  --background-color-main: #000;
+  --background-color-card: #111;
+  --border-color-card: #aaa;
+  --color-text: #ccc;
+  --color-title: #fff;
 }
